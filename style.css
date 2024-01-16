@@ -379,10 +379,11 @@ margin-top:50px;
 
 
 @media screen and (max-width:600px) {
+   
     .popular-tour{
         display: flex;
         flex-direction: column;
-        margin-left: 130px;
+        /* margin-left: 130px; */
     }
     .content-1 {
         display: flex;
@@ -392,7 +393,7 @@ margin-top:50px;
 .image{
     width:100%;
     height:340px;
-    margin-left: 300px;
+    /* margin-left: 300px; */
 }
     .image-3{
         max-width:100%;
@@ -407,7 +408,7 @@ margin-top:50px;
     margin: 0;
     padding: 0;
     position: relative;
-    left: 300px;
+    /* left: 300px; */
     bottom:50px;
    }
 
@@ -415,12 +416,12 @@ margin-top:50px;
     .container-img-part{
         display: flex;
         flex-direction: column;
-        margin-left: 300px;
+        /* margin-left: 300px; */
         max-width: 360px;
        
     }
     .container-img3-part{
-        margin-left: 300px;
+        /* margin-left: 300px; */
         
 
     }
@@ -428,12 +429,12 @@ margin-top:50px;
         margin:0px;
         padding: 0px;
         position: relative;
-        left:300px;
+        /* left:300px; */
     }
 
     .popular-tour{
         position: relative;
-        left: 180px;
+        /* left: 180px; */
     }
     .popular-text{
         display: flex;
@@ -448,12 +449,12 @@ margin-top:50px;
         flex-direction: column;
         max-width:100%;
         position: relative;
-        left: 150px;
-        max-width: 360px;
+        /* left: 150px; */
+        /* max-width: 360px; */
 
     }
     .box-1{
-        margin-left: 100px;
+        /* margin-left: 100px; */
        
        
 
@@ -462,7 +463,7 @@ margin-top:50px;
   footer{
   width:700px;
   position: relative;
-  margin-left: 150px;
+  /* margin-left: 230px; */
 
   }
   .copyright{
