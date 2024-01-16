@@ -85,6 +85,13 @@ span.home {
 
 }
 
+.icon-ar{
+position: relative;
+top:13px;
+right:50px;
+background-color:rgb(185, 183, 183);
+}
+
 .explore-img-content .explore-h1 {
     color: #FFF;
 
@@ -297,6 +304,17 @@ margin: 24px auto;
 padding-left:140px;
 padding-right:140px;
 }
+ .btn-subscribe:hover{
+    transform:scale(1.2);
+     cursor:pointer;
+ 
+}
+.btn:hover{
+    transform:scale(1.2);
+     cursor:pointer;
+ 
+}
+
 
 .box-2-img{
     display: flex;
