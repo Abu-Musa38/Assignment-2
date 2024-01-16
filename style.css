@@ -81,14 +81,14 @@ span.home {
     border-radius: 16px;
     margin: 50px auto;
     max-width:1000px;
-    margin:50px auto;
+    
 
 }
 
 .icon-ar{
 position: relative;
 top:13px;
-right:50px;
+right:60px;
 background-color:rgb(185, 183, 183);
 }
 
@@ -127,8 +127,9 @@ background-color:rgb(185, 183, 183);
     border-radius: 8px;
     background: rgba(255, 255, 255, 0.30);
     margin: 50px auto;
-    margin-left: 130px;
+    margin-left: 70px;
     text-align: center;
+    
 }
 
 .explore-input .same-input {
