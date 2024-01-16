@@ -401,6 +401,7 @@ margin-top:50px;
     display: flex;
     flex-direction: column;
     width: 100%;
+   
  }
    .container-text{
     margin: 0;
@@ -414,12 +415,12 @@ margin-top:50px;
     .container-img-part{
         display: flex;
         flex-direction: column;
-        margin-left: 240px;
+        margin-left: 300px;
         max-width: 360px;
        
     }
     .container-img3-part{
-        margin-left: 240px;
+        margin-left: 300px;
         
 
     }
@@ -433,6 +434,13 @@ margin-top:50px;
     .popular-tour{
         position: relative;
         left: 180px;
+    }
+    .popular-text{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    
+        text-align: justify;
     }
 
     .box-part{
