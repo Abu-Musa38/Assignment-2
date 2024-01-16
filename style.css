@@ -371,6 +371,9 @@ margin-top:50px;
 .copyright{
     margin:50px auto;
 }
+.icon{
+    display: none;
+}
 
 /* Mobile screen */
 
@@ -379,7 +382,21 @@ margin-top:50px;
 
 
 @media screen and (max-width:600px) {
-   
+.explore-img-content{
+
+  /* Kaj baki chilo */
+    
+}
+ 
+   .items-container{
+    display: none;
+   }
+   .icon{
+    display: flex;
+   position: relative;
+   right:20px;
+   }
+
     .popular-tour{
         display: flex;
         flex-direction: column;
