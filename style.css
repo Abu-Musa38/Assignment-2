@@ -253,10 +253,15 @@ width: 573px;
 height: 284px;
 flex-shrink: 0;
 
-    
-    
-    
+        
 }
+.bonus {
+    position: relative;
+    top:150px;
+    color:white;
+    font-size: 30px;
+}
+
 
 /* Box part */
 .box-part{
