@@ -23,6 +23,9 @@ footer{
     margin:50px auto;
 }
 
+
+
+
 .nav-content {
     display: flex;
     justify-content: space-between;
@@ -81,16 +84,29 @@ span.home {
     border-radius: 16px;
     margin: 50px auto;
     max-width:1000px;
+    display: flex;
+    flex-direction: column;
     
 
 }
 
-.icon-ar{
+.option{
+    width: 174px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 8px;
+background: #FFF;
+border:0px;
+}
+
+
+
+/* .icon-ar{
 position: relative;
 top:13px;
 right:60px;
 background-color:rgb(185, 183, 183);
-}
+} */
 
 .explore-img-content .explore-h1 {
     color: #FFF;
@@ -408,7 +424,7 @@ margin-top:50px;
 @media screen and (max-width:600px) {
 .explore-img-content{
 
-  /* Kaj baki chilo */
+    
     
 }
  
