@@ -423,10 +423,10 @@ margin-top:50px;
      width: 90%;
    
     }
-
-    .hide{
-        display:none;
-    }
+.hide{
+    display: none;
+}
+    
     
 
     .popular-tour{
@@ -442,7 +442,11 @@ margin-top:50px;
 
     {
         width:100%;
-        margin: 10px auto;
+   
+    }
+    .popular-tour .popular-img>img{
+   width: 100%;
+
     }
 
     }   
