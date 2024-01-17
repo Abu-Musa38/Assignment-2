@@ -547,6 +547,14 @@ font-weight: 400;
 font-style: normal;
 font-weight: 800;
     }
+
+    footer{
+        height: 90%;
+        width: 90%;
+    }
+   .same-input-foot{
+    text-align: center;
+   }
 }
 
 
